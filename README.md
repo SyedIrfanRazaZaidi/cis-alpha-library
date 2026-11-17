@@ -5,11 +5,11 @@ A simple Library Management System built in two sprints using Scrum and GitHub P
 ## Team and roles
 | Role | Name | GitHub username |
 |---|---|---|
-| Product Owner (PO) | Syed Irfan Raza Zaidi | @SyedIrfanRazaZaidi |
-| Scrum Master (SM) | Syed Irfan Raza Zaidi | @@SyedIrfanRazaZaidi |
-| Developer 1 | Syed Irfan Raza Zaidi | @@SyedIrfanRazaZaidi |
-| Developer 2 | Taha | @tahacoder-sudo |
-| Stakeholder | Instructor | @<instructor-username> |
+| Product Owner (PO) | Syed Irfan Raza Zaidi | SyedIrfanRazaZaidi |
+| Scrum Master (SM) | Syed Irfan Raza Zaidi | SyedIrfanRazaZaidi |
+| Developer 1 | Syed Irfan Raza Zaidi | SyedIrfanRazaZaidi |
+| Developer 2 | Taha | tahacoder-sudo |
+| Stakeholder | Instructor | Mahn00rMalik |
 
 ## Definition of Done
 A user story is Done only when:
